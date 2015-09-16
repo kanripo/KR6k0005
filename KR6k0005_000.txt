@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 彌沙塞羯磨本
+#+DATE: 2015-08-30 20:39:21.284864
+#+PROPERTY: JUAN 0
